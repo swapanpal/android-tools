@@ -1,2 +1,5 @@
 To create gradient background online:
  https://angrytools.com/gradient/
+ -----------------------------------------------------
+ To generate custom API (Free)
+ https://designer.mocky.io/
